@@ -6,32 +6,32 @@
 ---
 
 ## 📌 O projekcie
-„AI dla laików i lajków” to 15-dniowa praktyczna seria edukacyjna w postaci przystępnych grafik i porad, pokazująca, jak krok po kroku zacząć korzystać z narzędzi sztucznej inteligencji w codziennym życiu, pracy i kreacji treści.
+„AI dla laików i lajków” to praktyczna seria edukacyjna w postaci przystępnych grafik i porad, pokazująca, jak krok po kroku zacząć korzystać z narzędzi sztucznej inteligencji w codziennym życiu, pracy i kreacji treści.
 
 ---
 
-## 📅 Przegląd serii (Dni 1 – 15)
+## 📂 Zasoby w repozytorium i wytyczne dla AI (Dni 14 i 15)
 
-* **Dzień 1:** Cześć! Poznajmy się! – Jak w prosty sposób zacząć korzystać z AI?
-* **Dzień 2:** Jak zacząć korzystać z AI? – Zaczynamy od ChatGPT i pierwszych kroków.
-* **Dzień 3:** Pierwszy dobry prompt! – Prosty schemat: Cel, Kontekst, Forma.
-* **Dzień 4:** Jak napisać pierwszy dobry prompt? – Schemat z praktycznymi przykładami.
-* **Dzień 5:** 5 prostych narzędzi AI – ChatGPT, Canva AI, Perplexity, ElevenLabs, Notion AI.
-* **Dzień 6:** Jak używać AI w codziennym życiu? – Praktyczne przykłady na co dzień.
-* **Dzień 7:** Obrazki, grafiki, inspiracje – Tworzenie obrazów z Midjourney, DALL-E i Leonardo.Ai.
-* **Dzień 8:** Twoje cyfrowe notatki – Jak nie zgubić pomysłów (Google Keep, Notion, ChatGPT).
-* **Dzień 9:** Pisanie i tworzenie treści – Od zera do gotowego postu.
-* **Dzień 10:** Planowanie i organizacja – AI pomoże Ci ogarnąć chaos.
-* **Dzień 11:** Rozwiązywanie problemów – Masz pytanie? Zapytaj AI!
-* **Dzień 12:** Twoje cyfrowe narzędzia – Jak ułatwić sobie życie z AI?
-* **Dzień 13:** Błędy? To normalne! – Jak sobie z nimi radzić i uczyć się na nich.
-* **Dzień 14–15:** Podsumowanie serii i kolejne kroki w pracy z AI.
+### 📸 Pliki wzorcowe i wizerunkowe:
+1. **Wzornik postaci (Twój wizerunek):** `IMG_20261006_1251...`  
+   * *Wytyczna:* Postać na grafikach **musi** odzwierciedlać prawdziwego autora (czapka z daszkiem, okulary, zarost, czarna bluza/t-shirt). **NIE należy używać wygenerowanego animowanego faceta** z pierwotnego szablonu.
+2. **Kod QR:** `QR_buycoffee (1).png`  
+   * *Wytyczna:* Oficjalny kod QR do wsparcia na BuyCoffee / Cuplink.
+3. **Plansza zbiorcza 15 tematów (Szablon):** `plik_00000000c26881...`  
+   * *Wytyczna:* Baza wiedzy i tematów przewodnich dla całej serii.
 
 ---
 
-## 🛠 Wykorzystane narzędzia i technologie
-- **ChatGPT:** Pomysłowość, pisanie tekstów, organizacja, prompty.
-- **Canva AI:** Tworzenie oprawy graficznej i układów.
-- **Midjourney / DALL-E / Leonardo.Ai:** Generowanie postaci i grafik.
-- **Notion AI & Google Keep:** Cyfrowe notatki i planowanie.
+## 📅 Status publikacji serii
+
+* **Dzień 1 – 13:** Opublikowane posty z Twoim wizerunkiem, kodem QR oraz dedykowaną oprawą graficzną.
+* **Dzień 14:** *W trakcie przygotowania* (Temat na podstawie planszy wzorcowej).
+* **Dzień 15:** *W trakcie przygotowania – Podsumowanie i finał serii* (Temat na podstawie planszy wzorcowej).
+
+---
+
+## 🎨 Stylistyka grafik
+- **Postać:** Sigmauser (Robert Żmuda) – czapka, okulary, zarost.
+- **Elementy stałe:** Dymki z kluczowymi hasłami, puchar/kubek z napisem „Dobre pomysły...”, kod QR na dołączenie do społeczności/wsparcie.
+- **Narzędzia używane w cyklu:** ChatGPT, Canva AI, Midjourney, Leonardo.Ai, Notion AI, Google Keep.
 - 
