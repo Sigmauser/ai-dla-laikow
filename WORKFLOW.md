@@ -7,7 +7,8 @@ Jedno źródło prawdy, minimum kroków, zachowanie kontekstu i automatyzacja be
 ### 1. GITHUB | Źródło prawdy
 Repozytorium: `Sigmauser/ai-dla-laikow`
 
-1. Odczytaj aktualny stan plików `DZIEN_01.md` do `DZIEN_15.md` oraz `README.md`.
+1. Odczytaj aktualny stan projektu: dni 1-13 znajdują się pod nazwami rozpoczynającymi się od FB_IMG_..., a dni 14-15 jako DZIEN_14.md i DZIEN_15.md. Sprawdź też README.md.
+
 2. Porównaj treść, numerację, status publikacji i ustalenia projektu.
 3. Aktualizuj wyłącznie wymagające zmian pliki, zachowując historię i istniejące materiały.
 4. Nie nadpisuj poprawnych treści bez uzasadnienia. Zapisuj zmiany automatycznie, jeśli dostęp i uprawnienia na to pozwalają.
