@@ -26,7 +26,7 @@
 
 * **Dzień 1 – 13:** Opublikowane posty z Twoim wizerunkiem, kodem QR oraz dedykowaną oprawą graficzną.
 * **Dzień 14:** Zakończony.
-* Dzień 15: Zakończony. Podsumowanie i finał serii.
+* **Dzień 15:** Zakończony. Podsumowanie i finał serii.
 
 ---
 
