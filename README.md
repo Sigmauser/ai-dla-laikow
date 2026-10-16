@@ -35,3 +35,6 @@
 - **Elementy stałe:** Dymki z kluczowymi hasłami, puchar/kubek z napisem „Dobre pomysły...”, kod QR na dołączenie do społeczności/wsparcie.
 - **Narzędzia używane w cyklu:** ChatGPT, Canva AI, Midjourney, Leonardo.Ai, Notion AI, Google Keep.
 - 
+**status projektu: zakończony**
+**podsumowanie serii**
+Seria AI dla laików i lajków została zakończona. Repozytorium zawiera materiały projektowe, wytyczne oraz pliki wzorcowe związane z realizacją serii. Projekt uznaje się za zamknięty, a zgromadzone zasoby stanowią jego dokumentację końcową.
