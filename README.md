@@ -25,8 +25,8 @@
 ## 📅 Status publikacji serii
 
 * **Dzień 1 – 13:** Opublikowane posty z Twoim wizerunkiem, kodem QR oraz dedykowaną oprawą graficzną.
-* **Dzień 14:** *W trakcie przygotowania* (Temat na podstawie planszy wzorcowej).
-* **Dzień 15:** *W trakcie przygotowania – Podsumowanie i finał serii* (Temat na podstawie planszy wzorcowej).
+* **Dzień 14:** Zakończony.
+* Dzień 15: Zakończony. Podsumowanie i finał serii.
 
 ---
 
